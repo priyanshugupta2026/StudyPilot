@@ -1,0 +1,9 @@
+{
+  "name": "studypilot",
+  "version": "1.0.0",
+  "description": "A voice-first study companion prototype for planning focused study sessions.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "keywords": ["hackathon", "student", "productivity", "study", "voice"],
+  "license": "MIT"
+}
